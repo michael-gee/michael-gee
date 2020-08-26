@@ -11,6 +11,8 @@
 ## :closed_book:&nbsp; Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloning Existing Projects: Why It's Not A Waste Of Your Time](https://dev.to/michaelgee22/cloning-existing-projects-why-it-s-not-a-waste-of-your-time-5he3)
+- [Personal Website Launch: Would Love Some Feedback](https://dev.to/michaelgee22/personal-website-launch-would-love-some-feedback-2348)
 <!-- BLOG-POST-LIST:END -->
 
 Follow me on [Dev.to](https://dev.to/michaelgee22) to stay up to date on my latest posts!
