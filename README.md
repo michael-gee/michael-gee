@@ -9,3 +9,8 @@
 [Website](https://michaelgee.com) • [Twitter](https://twitter.com/michaelgee7) • [LinkedIn](https://www.linkedin.com/in/michael-gee)
 
 ## :closed_book:&nbsp; Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+Follow me on [Dev.to](https://dev.to/michaelgee22) to stay up to date on my latest posts!
