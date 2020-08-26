@@ -8,7 +8,7 @@
 
 [Website](https://michaelgee.com) • [Twitter](https://twitter.com/michaelgee7) • [LinkedIn](https://www.linkedin.com/in/michael-gee)
 
-## :closed_book:&nbsp; Recent Blog Posts
+## Recent Blog Posts &nbsp;:closed_book:
 
 <!-- BLOG-POST-LIST:START -->
 - [Cloning Existing Projects: Why It's Not A Waste Of Your Time](https://dev.to/michaelgee22/cloning-existing-projects-why-it-s-not-a-waste-of-your-time-5he3)
