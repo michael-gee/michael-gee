@@ -11,7 +11,6 @@
 ## Recent Blog Posts &nbsp;:closed_book:
 
 <!-- BLOG-POST-LIST:START -->
-- [Github Profile Showcase 🏆](https://dev.to/michaelgee22/github-profile-showcase-5900)
 - [Quick Tips & Resources To Improve Your Github ReadMe](https://dev.to/michaelgee22/quick-tips-resources-to-improve-your-github-readme-11le)
 - [Cloning Existing Projects: Why It's Not A Waste Of Your Time](https://dev.to/michaelgee22/cloning-existing-projects-why-it-s-not-a-waste-of-your-time-5he3)
 - [Personal Website Launch: Would Love Some Feedback](https://dev.to/michaelgee22/personal-website-launch-would-love-some-feedback-2348)
