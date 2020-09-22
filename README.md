@@ -11,6 +11,7 @@
 ## Recent Blog Posts &nbsp;:closed_book:
 
 <!-- BLOG-POST-LIST:START -->
+- [Start Using React.js](https://dev.to/michaelgee/start-using-react-js-cnn)
 - [My React.js Library Bookmarks](https://dev.to/michaelgee/my-react-js-library-bookmarks-o6e)
 - [Quick Tips & Resources To Improve Your Github ReadMe](https://dev.to/michaelgee/quick-tips-resources-to-improve-your-github-readme-11le)
 - [Cloning Existing Projects: Why It's Not A Waste Of Your Time](https://dev.to/michaelgee/cloning-existing-projects-why-it-s-not-a-waste-of-your-time-5he3)
