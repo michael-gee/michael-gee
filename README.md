@@ -11,11 +11,11 @@
 ## Recent Blog Posts &nbsp;:closed_book:
 
 <!-- BLOG-POST-LIST:START -->
+- [Prevent Your Codebase From Becoming A Spaghetti Factory](https://dev.to/michaelgee/prevent-your-codebase-from-becoming-a-spaghetti-factory-3cfn)
 - [Start Using React.js](https://dev.to/michaelgee/start-using-react-js-cnn)
 - [My React.js Library Bookmarks](https://dev.to/michaelgee/my-react-js-library-bookmarks-o6e)
 - [Quick Tips & Resources To Improve Your Github ReadMe](https://dev.to/michaelgee/quick-tips-resources-to-improve-your-github-readme-11le)
 - [Cloning Existing Projects: Why It's Not A Waste Of Your Time](https://dev.to/michaelgee/cloning-existing-projects-why-it-s-not-a-waste-of-your-time-5he3)
-- [Personal Website Launch: Would Love Some Feedback](https://dev.to/michaelgee/personal-website-launch-would-love-some-feedback-2348)
 <!-- BLOG-POST-LIST:END -->
 
 Follow me on [Dev.to](https://dev.to/michaelgee) to stay up to date on my latest posts!
