@@ -10,11 +10,11 @@
 ## Recent Blog Posts &nbsp;:closed_book:
 
 <!-- BLOG-POST-LIST:START -->
+- [Prioritizing Privacy in 2021](https://dev.to/michaelgee/prioritizing-privacy-in-2021-25l1)
 - [Build Side Projects You'll Actually Be Passionate About](https://dev.to/michaelgee/build-side-projects-you-ll-actually-be-passionate-about-164b)
 - [Simplify The Job Application Process](https://dev.to/michaelgee/applying-for-dev-jobs-can-be-exhausting-simplify-the-process-d98)
 - [Prevent Your Codebase From Becoming A Spaghetti Factory](https://dev.to/michaelgee/prevent-your-codebase-from-becoming-a-spaghetti-factory-3cfn)
 - [Start Using React.js](https://dev.to/michaelgee/start-using-react-js-cnn)
-- [My React.js Library Bookmarks](https://dev.to/michaelgee/my-react-js-library-bookmarks-o6e)
 <!-- BLOG-POST-LIST:END -->
 
 Follow me on [Dev.to](https://dev.to/michaelgee) to stay up to date on my latest posts!
