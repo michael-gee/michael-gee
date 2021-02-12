@@ -12,9 +12,8 @@
 ## Recent Blog Posts &nbsp;:closed_book:
 
 <!-- BLOG-POST-LIST:START -->
-
+- [New Year, New Project: Introducing awesome-books](https://dev.to/michaelgee/new-year-new-project-introducing-awesome-books-55kk)
 - [Build Side Projects You'll Actually Be Passionate About](https://dev.to/michaelgee/build-side-projects-you-ll-actually-be-passionate-about-164b)
-- [Simplify The Job Application Process](https://dev.to/michaelgee/applying-for-dev-jobs-can-be-exhausting-simplify-the-process-d98)
 - [Prevent Your Codebase From Becoming A Spaghetti Factory](https://dev.to/michaelgee/prevent-your-codebase-from-becoming-a-spaghetti-factory-3cfn)
 - [Start Using React.js](https://dev.to/michaelgee/start-using-react-js-cnn)
 - [My React.js Library Bookmarks](https://dev.to/michaelgee/my-react-js-library-bookmarks-o6e)
