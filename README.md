@@ -1,6 +1,7 @@
 ## Hello World &nbsp;:wave:
 
-:computer: &nbsp;&nbsp; I'm a full-stack software developer.<br/><!-- :briefcase: &nbsp;&nbsp; Currently working at []().<br/> -->
+:computer: &nbsp;&nbsp; I'm a full-stack software developer.<br/>
+:briefcase: &nbsp;&nbsp; Currently working at [Inxeption](https://www.inxeption.com/).<br/>
 :mortar_board: &nbsp;&nbsp; Continuously learning & improving my skills.<br/>
 :mailbox: &nbsp;&nbsp; Contact me through my social media links or directly [here](https://michaelgee.com/contact).<br/>
 
