@@ -5,7 +5,7 @@
 :mortar_board: &nbsp;&nbsp; Continuously learning & improving my skills.<br/>
 :mailbox: &nbsp;&nbsp; Contact me through my social media links or directly [here](https://michaelgee.com/contact).<br/>
 
-[Website](https://michaelgee.com) • [Twitter](https://twitter.com/michaelgee7) • [LinkedIn](https://www.linkedin.com/in/michael-gee)
+[Website](https://michaelgee.com) • [Twitter](https://twitter.com/michaelgee_) • [LinkedIn](https://www.linkedin.com/in/michael-gee)
 
 ## Recent Blog Posts &nbsp;:closed_book:
 
