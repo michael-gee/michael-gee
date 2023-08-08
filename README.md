@@ -5,4 +5,4 @@
 :bulb: &nbsp;&nbsp; Turning ideas into applications.<br/>
 :mortar_board: &nbsp;&nbsp; Continuously learning & improving my skills.<br/>
 
-[Website](https://michaelgee.com) • [Blog](https://michaelgee.com/blog) • [Twitter](https://twitter.com/michaelgee_) 
+[Website](https://michaelgee.com) • [Blog](https://michaelgee.com/blog) • [X](https://x.com/michaelgee_) 
