@@ -1,4 +1,4 @@
-## Hello World &nbsp;:wave:
+## Hello World &nbsp;👋
 
 :computer: &nbsp;&nbsp; I'm a passionate senior software engineer.<br/>
 :briefcase: &nbsp;&nbsp; Currently building at [GoFan](https://get.gofan.co/).<br/>
