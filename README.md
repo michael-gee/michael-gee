@@ -1,7 +1,7 @@
 ## Hello World &nbsp;👋
 
 :computer: &nbsp;&nbsp; I'm a passionate senior software engineer.<br/>
-:briefcase: &nbsp;&nbsp; Currently building at [PlayOn! Sports](https://www.playonsports.com/).<br/>
+:briefcase: &nbsp;&nbsp; Currently building at [PlayOn](https://www.playonsports.com/).<br/>
 :bulb: &nbsp;&nbsp; Turning ideas into applications.<br/>
 :mortar_board: &nbsp;&nbsp; Continuously learning & improving my skills.<br/>
 
